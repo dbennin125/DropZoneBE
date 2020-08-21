@@ -19,7 +19,6 @@
     "@types/jest": "^26.0.10",
     "eslint": "^7.7.0",
     "jest": "^26.4.0",
-    "mongodb-memory-server": "^6.6.4",
     "nodemon": "^2.0.4",
     "supertest": "^4.0.2"
   },
