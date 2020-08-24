@@ -1,67 +1,56 @@
 [
   {
+    "id": "514194",
+    "name": "Rogue Company",
+    "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/Rogue%20Company-285x380.jpg"
+  },
+  {
     "id": "493057",
-    "displayName": "PLAYERUNKNOWN'S BATTLEGROUNDS",
     "name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
     "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/PLAYERUNKNOWN%27S%20BATTLEGROUNDS-285x380.jpg"
   },
   {
     "id": "32502",
-    "displayName": "World of Warships",
     "name": "World of Warships",
     "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/World%20of%20Warships-285x380.jpg"
   },
   {
     "id": "9611",
-    "displayName": "The Witcher",
     "name": "The Witcher",
     "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Witcher-285x380.jpg"
   },
   {
-    "id": "514194",
-    "displayName": "Rogue Company",
-    "name": "Rogue Company",
-    "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/Rogue%20Company-285x380.jpg"
-  },
-  {
     "id": "488634",
-    "displayName": "Don't Starve Together",
     "name": "Don't Starve Together",
     "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/Don%27t%20Starve%20Together-285x380.jpg"
   },
   {
     "id": "493217",
-    "displayName": "Gwent: The Witcher Card Game",
     "name": "Gwent: The Witcher Card Game",
     "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/./Gwent:%20The%20Witcher%20Card%20Game-285x380.jpg"
   },
   {
     "id": "115977",
-    "displayName": "The Witcher 3: Wild Hunt",
     "name": "The Witcher 3: Wild Hunt",
     "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/./The%20Witcher%203:%20Wild%20Hunt-285x380.jpg"
   },
   {
     "id": "497697",
-    "displayName": "Last Day On Earth: Survival",
     "name": "Last Day On Earth: Survival",
     "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/./Last%20Day%20On%20Earth:%20Survival-285x380.jpg"
   },
   {
     "id": "494327",
-    "displayName": "Minion Masters",
     "name": "Minion Masters",
     "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/Minion%20Masters-285x380.jpg"
   },
   {
     "id": "491403",
-    "displayName": "Eternal",
     "name": "Eternal",
     "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/Eternal-285x380.jpg"
   },
   {
     "id": "491289",
-    "displayName": "Infestation: The New Z",
     "name": "Infestation: The New Z",
     "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/./Infestation:%20The%20New%20Z-285x380.jpg"
   }
