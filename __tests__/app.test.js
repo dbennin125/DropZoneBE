@@ -18,6 +18,6 @@ describe('DropZoneBE routes', () => {
   // });   
 
   it('it passes', () => {
-    return;
+  
   });
 });
